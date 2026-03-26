@@ -9,7 +9,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"cldap/config"
+	"github.com/thedeceptio/cldap/config"
 )
 
 var configureCmd = &cobra.Command{

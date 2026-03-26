@@ -6,9 +6,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"cldap/config"
-	ldapclient "cldap/ldap"
-	"cldap/session"
+	"github.com/thedeceptio/cldap/config"
+	ldapclient "github.com/thedeceptio/cldap/ldap"
+	"github.com/thedeceptio/cldap/session"
 )
 
 var emailFlag string

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"cldap/cmd"
+	"github.com/thedeceptio/cldap/cmd"
 )
 
 func main() {

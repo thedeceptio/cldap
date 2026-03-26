@@ -7,7 +7,7 @@ import (
 
 	"github.com/go-ldap/ldap/v3"
 
-	"cldap/config"
+	"github.com/thedeceptio/cldap/config"
 )
 
 type Client struct {

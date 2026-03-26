@@ -1,4 +1,4 @@
-module cldap
+module github.com/thedeceptio/cldap
 
 go 1.18
 

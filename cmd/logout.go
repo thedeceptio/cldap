@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"cldap/session"
+	"github.com/thedeceptio/cldap/session"
 )
 
 var logoutCmd = &cobra.Command{

@@ -9,9 +9,9 @@ import (
 	"github.com/spf13/cobra"
 	"golang.org/x/term"
 
-	"cldap/config"
-	ldapclient "cldap/ldap"
-	"cldap/session"
+	"github.com/thedeceptio/cldap/config"
+	ldapclient "github.com/thedeceptio/cldap/ldap"
+	"github.com/thedeceptio/cldap/session"
 )
 
 var loginCmd = &cobra.Command{
