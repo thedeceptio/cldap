@@ -1,0 +1,5 @@
+# compiled binary
+cldap
+
+# local config and session (contain credentials)
+.cldap/
